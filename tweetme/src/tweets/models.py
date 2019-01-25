@@ -26,3 +26,4 @@ class Tweet(models.Model):
     #         raise ValidationError("Content cannot be ABC")
     #     return super(Tweet, self).clean(*args, **kwargs)
 
+
